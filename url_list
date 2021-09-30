@@ -1,0 +1,7 @@
+amazon.com
+flipkart.com
+*.instagram.com
+instagram.com/*
+^.watsapp.^
+gmail.*
+mail.google.*
